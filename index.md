@@ -1,11 +1,11 @@
 ---
 layout: page
-title: QuantGen Journal Club
+title: RNA Biology Journal Club
 tagline: 
 ---
 {% include JB/setup %}
 
-We discuss literature centered on quantitative genetics including animal breeding, plant breeding, and human genetics. Please subscribe to our RSS feed to follow if you are interested.  
+We discuss literature centered on RNA biology. Please subscribe to our RSS feed to follow if you are interested.  
 
 ### Posts [![](images/feed-icon-14x14.png)](rss.xml)
 
