@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RNA Journal Club
+title: RNA Biology Journal Club
 tagline: 
 ---
 {% include JB/setup %}
